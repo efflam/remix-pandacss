@@ -15,6 +15,7 @@ export default function Index() {
       <h1
         className={css({
           color: "test",
+          fontSize: 12,
         })}
       >
         Welcome to Remix
